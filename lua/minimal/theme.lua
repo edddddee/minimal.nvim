@@ -32,7 +32,7 @@ M.base = {
 
     Debug       = { fg = colors.fg },
     Define      = { fg = colors.blue_type },
-    Delimiter   = { fg = colors.gray_punc },
+    Delimiter   = { fg = colors.white },
     DiffAdd     = { fg = colors.green_func },
     DiffAdded   = { fg = colors.green_func },
     DiffChange  = { fg = colors.green_func },
