@@ -40,7 +40,7 @@ return {
   gray       = "#21252D",
   orange     = "#E0828D",
   orange_wr  = "#E39A65",
-  pink       = "#D895C7",
+  pink       = "#d966bc",
   yellow     = "#E9D26C",
 
 }
