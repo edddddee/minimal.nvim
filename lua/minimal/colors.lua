@@ -1,9 +1,9 @@
 return {
   fg               = "#DFE0EA",
-  bg               = "#000000", -- default = "#191B20",
+  bg               = "#000000", --"#191B20",
   none             = "#191B20",
   --16181D
-  dark             = '#16181D',
+  dark             = "#000000", --'#16181D',
   comment          = "#4D5264",
   popup_back       = '#515761',
   cursor_fg        = '#DFE0EA',
@@ -15,7 +15,7 @@ return {
   cl_bg            = "#707891",
   diff_text        = '#568BB4',
   line_fg          = "#555B6C",
-  line_bg          = "#1E2026",
+  line_bg          = "#000000", --"#1E2026",
   gutter_bg        = "#1E2026",
   non_text         = "#606978",
   selection_bg     = "#5E697E",
