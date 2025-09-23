@@ -31,7 +31,7 @@ return {
   blue_type  = '#7EB7E6',
   blue_func  = "#58B1ED",
   black1     = "#272932",
-  black      = "#16181D",
+  black      = "#000000",
   white1     = "#CFD0D7",
   white      = "#DFE0EA",
   gray_punc  = "#515669",
