@@ -52,7 +52,7 @@ M.base = {
     FloatBorder = { fg = colors.gray2, bg = "NONE" },
     FoldColumn  = { fg = colors.line_fg },
     Folded      = { fg = colors.white, bg = colors.gray },
-    Function    = { fg = colors.green_func },
+    Function    = { fg = colors.blue_func },
 
     Identifier = { fg = colors.white1 },
     Ignore     = { fg = colors.gray_punc },
