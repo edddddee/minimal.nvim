@@ -4,7 +4,7 @@ return {
   none             = "#191B20",
   --16181D
   dark             = "#000000", --'#16181D',
-  comment          = "#4D5264",
+  comment          = "#85ffc4", --"#4D5264",
   popup_back       = '#515761',
   cursor_fg        = '#DFE0EA',
   context          = '#515761',
