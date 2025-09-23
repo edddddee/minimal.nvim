@@ -27,8 +27,8 @@ M.base = {
     Cursor       = { fg = colors.yellow, bg = colors.bg },
     CursorColumn = { fg = "NONE", bg = "NONE" },
     -- CursorIM = { fg = colors.cursor_fg, bg = colors.cursor_bg },
-    CursorLine   = { bg = colors.black1 },
-    CursorLineNr = { fg = colors.white, bg = colors.gutter_bg, style = 'bold' },
+    CursorLine   = { bg = colors.black },
+    CursorLineNr = { fg = colors.white, bg = colors.black, style = 'bold' },
 
     Debug       = { fg = colors.fg },
     Define      = { fg = colors.blue_type },
