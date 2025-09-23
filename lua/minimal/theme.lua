@@ -95,7 +95,7 @@ M.base = {
 
     Search              = { fg = colors.line_fg, bg = colors.orange },
     SignColumn          = { bg = colors.line_bg },
-    Special             = { fg = colors.gray_punc },
+    Special             = { fg = colors.fg },--gray_punc },
     SpecialChar         = { fg = colors.yellow },
     SpecialComment      = { fg = colors.pink },
     SpecialKey          = { fg = colors.gray_punc, style = 'bold' },
