@@ -38,7 +38,7 @@ return {
   gray2      = "#6E7380",
   gray1      = '#343842',
   gray       = "#21252D",
-  orange     = "#E0828D",
+  orange     = "#f2b72c",
   orange_wr  = "#E39A65",
   pink       = "#d966bc",
   yellow     = "#E9D26C",
