@@ -95,7 +95,7 @@ M.base = {
 
     Search              = { fg = colors.line_fg, bg = colors.orange },
     SignColumn          = { bg = colors.line_bg },
-    Special             = { fg = colors.green_func },--gray_punc },
+    Special             = { fg = colors.blue_func },--gray_punc },
     SpecialChar         = { fg = colors.yellow },
     SpecialComment      = { fg = colors.pink },
     SpecialKey          = { fg = colors.gray_punc, style = 'bold' },
@@ -111,7 +111,7 @@ M.base = {
     StatusLineTermNC    = { fg = colors.gray_punc, bg = colors.black },
     StorageClass        = { fg = colors.red_key_w },
     String              = { fg = colors.yellow },
-    Structure           = { fg = colors.blue_func },
+    Structure           = { fg = colors.green_func },
     Substitute          = { fg = colors.gray2, bg = colors.orange },
 
     TabLine      = { fg = colors.line_fg },
@@ -122,7 +122,7 @@ M.base = {
     TermCursorNC = { fg = colors.cursor_fg, bg = colors.cursor_bg },
     Title        = { fg = colors.gray_punc },
     Todo         = { fg = colors.yellow, style = 'bold' },
-    Type         = { fg = colors.green_func, style = config.italic_keywords },
+    Type         = { fg = colors.blue_func, style = config.italic_keywords },
     Typedef      = { fg = colors.blue_type, style = config.italic_keywords },
 
     Variable  = { fg = colors.white },
