@@ -113,7 +113,7 @@ M.base = {
     StorageClass        = { fg = colors.red_key_w },
     String              = { fg = colors.yellow },
     Structure           = { fg = colors.green_func },
-    Substitute          = { fg = colors.bg, bg = "#8CF4FF" },
+    Substitute          = { fg = colors.bg, bg = colors.gray_search },
 
     TabLine      = { fg = colors.line_fg },
     TabLineFill  = { fg = colors.line_fg },
