@@ -24,7 +24,7 @@ M.base = {
     Conceal      = { fg = colors.fg }, -- {bg = config.transparent_background and 'NONE' or colors.bg },
     Conditional  = { fg = colors.red_key_w },
     Constant     = { fg = colors.pink },
-    CurSearch    = { fg = colors.bg, bg = colors.orange },
+    CurSearch    = { fg = colors.bg, bg = "#ffffff" },
     Cursor       = { fg = colors.yellow, bg = colors.bg },
     CursorColumn = { fg = "NONE", bg = "NONE" },
     -- CursorIM = { fg = colors.cursor_fg, bg = colors.cursor_bg },
@@ -57,7 +57,7 @@ M.base = {
 
     Identifier = { fg = colors.white1 },
     Ignore     = { fg = colors.gray_punc },
-    IncSearch  = { fg = colors.bg, bg = "#8CF4FF" },
+    IncSearch  = { fg = colors.bg, bg = "#ffffff" },
     Include    = { fg = colors.blue_type,  style = config.italic_keywords },
 
     Keyword = { fg = colors.red_key_w,  style = config.italic_keywords },
@@ -94,7 +94,7 @@ M.base = {
 
     Repeat = { fg = colors.red_key_w },
 
-    Search              = { fg = colors.bg, bg = "#8CF4FF" },
+    Search              = { fg = colors.bg, bg = colors.gray_search },
     SignColumn          = { bg = colors.line_bg },
     Special             = { fg = colors.blue_func },--gray_punc },
     SpecialChar         = { fg = colors.yellow },
