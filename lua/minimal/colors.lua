@@ -38,6 +38,7 @@ return {
   gray2      = "#6E7380",
   gray1      = '#343842',
   gray       = "#21252D",
+  gray_search= "#616161",
   orange     = "#f2b72c",
   orange_wr  = "#E39A65",
   pink       = "#d966bc",
