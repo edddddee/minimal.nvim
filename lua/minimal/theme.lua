@@ -118,7 +118,7 @@ M.base = {
     TabLine      = { fg = colors.line_fg },
     TabLineFill  = { fg = colors.line_fg },
     TabLineSel   = { fg = colors.fg },
-    Tag          = { fg = colors.gray_punc },
+    Tag          = { fg = colors.white },
     TermCursor   = { fg = colors.cursor_fg, bg = colors.cursor_bg },
     TermCursorNC = { fg = colors.cursor_fg, bg = colors.cursor_bg },
     Title        = { fg = colors.gray_punc },
